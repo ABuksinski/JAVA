@@ -4,7 +4,7 @@ public class Results {
 
 	public static void main(String[] args) {
 		int phys = 100;
-		int chem = 100;
+		int chem = 100; 
 		int bio = 100;
 		System.out.println(displayResults(phys, chem, bio));
 		System.out.println(percentageResults(phys, chem, bio));
